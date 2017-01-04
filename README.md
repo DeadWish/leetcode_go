@@ -6,4 +6,4 @@
 
 ## 题目
 
-- [1. Two Sum]()
+- [1. Two Sum](https://github.com/DeadWish/leetcode_go/tree/master/1-two_sum)
