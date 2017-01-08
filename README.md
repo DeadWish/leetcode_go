@@ -7,3 +7,4 @@
 ## 题目
 
 - [1. Two Sum](https://github.com/DeadWish/leetcode_go/tree/master/1-two_sum)
+- [461. Hamming Distance](https://github.com/DeadWish/leetcode_go/tree/master/461-hamming_distance)
